@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RichPushNotificationsDemo_NotificationService : NSObject
+@end
+@implementation PodsDummy_Pods_RichPushNotificationsDemo_NotificationService
+@end
